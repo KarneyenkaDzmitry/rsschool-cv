@@ -2,7 +2,7 @@
 
 ### Contact Info
 - +375293570489 (Mobile)  
-- Email - korndima@tut.by
+- korndima@tut.by (Email)
 - [LinkedIn](https://www.linkedin.com/in/dzmitry-karneyenka/)
 - [GitHub](https://github.com/KarneyenkaDzmitry/)
 
